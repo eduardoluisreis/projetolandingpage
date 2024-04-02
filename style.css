@@ -71,7 +71,6 @@ body {
 
 .form {
     padding: 30px;
-    /* Padding around the form elements */
     border-radius: 5px;
     /* Rounded corners */
     margin-right: 10px;
@@ -80,25 +79,19 @@ body {
 
 .form label {
     display: block;
-    /* Make labels on separate lines */
     margin-bottom: 5px;
-    /* Space between labels and inputs */
     font-family: "Poppins", sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 14px;
-    /* Bold text for labels */
 }
 
 .form input[type="text"],
 .form input[type="email"],
 .form input[type="password"] {
     width: 100%;
-    /* Full width for input fields */
     padding: 10px;
-    /* Padding for input fields */
     border-radius: 50px;
-    /* Rounded corners for input fields */
     border: 1px solid rgba(128, 128, 128, 0.198);
     background-color: #0F172A;
     color: #c5c8d2;
@@ -106,24 +99,16 @@ body {
 
 .form input[type="submit"] {
     background-color: #2563EB;
-    /* background for submit button */
     color: white;
-    /* White text for submit button */
     padding: 10px 20px;
-    /* Padding for submit button */
     border: none;
-    /* No border for submit button */
     border-radius: 20px;
-    /* Rounded corners for submit button */
     cursor: pointer;
-    /* Make submit button look clickable */
 }
 
 .form a {
     color: #2563EB;
-    /* Green color for link */
     text-decoration: none;
-    /* Remove underline from link */
     font-family: "Poppins", sans-serif;
     font-weight: 600;
     font-style:normal;
