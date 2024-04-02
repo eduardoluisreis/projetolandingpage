@@ -58,8 +58,9 @@ body {
     border: none;
     background-color: #1E293B;
     color: #fff;
-    width: 430px;
-    height: 30px;
+    margin-left: 18px;
+    width: 400px;
+    height: 40px;
 }
 
 .btn img {
